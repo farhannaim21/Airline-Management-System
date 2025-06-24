@@ -19,7 +19,7 @@ A GUI-based desktop application designed to manage airline operations such as fl
 - **Frontend**: Java AWT/Swing  
 - **Backend**: JDBC (Java Database Connectivity)  
 - **Database**: MySQL  
-- **Tools**: NetBeans / IntelliJ, Git, MySQL Workbench
+- **Tools**: VS Code, Git, MySQL Workbench
 
 ---
 
