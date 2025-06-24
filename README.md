@@ -26,7 +26,7 @@ A GUI-based desktop application designed to manage airline operations such as fl
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login](images/login.png)
+![Login](images/Login.png)
 
 ---
 
