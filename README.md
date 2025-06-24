@@ -2,8 +2,6 @@
 
 A GUI-based desktop application designed to manage airline operations such as flight scheduling, customer bookings, and ticket issuance. Built using Java (AWT/Swing) and MySQL for database operations.
 
-![Home Page](images/airline_home.png)
-
 ---
 
 ## 🚀 Features
@@ -27,23 +25,28 @@ A GUI-based desktop application designed to manage airline operations such as fl
 
 ## 📸 Screenshots
 
+### 🔐 Login Page
+![Login](images/login.png)
+
+---
+
 ### 🏠 Home / Dashboard
 ![Dashboard](images/airline_dashboard.png)
 
 ---
 
-### 🛫 Add Flight Page
-![Add Flight](images/airline_add_flight.png)
+### 🛫 Book Flight
+![Book Flight](images/Book_flight.png)
 
 ---
 
-### 🎫 Book Ticket
-![Book Ticket](images/airline_book_ticket.png)
+### 🔍 Add Customer
+![Add Customer](images/Add_customer.png)
 
 ---
 
-### 🔍 Search Bookings
-![Search Booking](images/airline_search_booking.png)
+### 🎫 Cancel Ticket
+![Cancel Ticket](images/Cancellation.png)
 
 ---
 
